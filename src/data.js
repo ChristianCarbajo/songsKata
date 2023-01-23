@@ -1208,7 +1208,7 @@ const songs = [
         genre: ["Jazz", "Funk", "Pop"]
     }
 ];
-
 if(typeof module !== 'undefined'){
     module.exports = songs;
 }
+  export default songs
